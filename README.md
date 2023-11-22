@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohampatel23" alt="sohampatel23" /></a> </p>
 
-- 💬 Ask me about **android, springboot, DSA**
+- 💬 Ask me about **android, springboot, Java, DSA**
 
 - 📫 How to reach me **sohampatel.1324@gmail.com**
 
