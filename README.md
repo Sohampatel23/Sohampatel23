@@ -8,6 +8,8 @@
 - 💬 Ask me about **android, springboot, Java, DSA**
 
 - 📫 How to reach me **sohampatel.1324@gmail.com**
+  
+- 📄 Know about my experiences [https://www.linkedin.com/in/sohamptl23/](https://www.linkedin.com/in/sohamptl23/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
